@@ -1,0 +1,8 @@
+Mi respuesta a la pregunta:
+
+¿Es posible ejecutar un programa en java que contenga varias clases con métodos main?
+ En caso positivo, ¿cómo se determina el punto de entrada a un programa?
+
+ quiero mostrar con el ejemplo que un programa si puede ser ejecutado con mas de una clase que contenga
+ el método main, pero el programa solo puede ser ejecutado con un solo punto de entrada, es decir no se puede ejecutar
+ el programa desde dos o mas metodos main al mismo tiempo.
